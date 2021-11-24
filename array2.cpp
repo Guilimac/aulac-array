@@ -18,7 +18,7 @@ int main()
 		printf("\n");//pular a linha de fora para o codigo ficar igual uma matriz
 	}
 	printf("\n\n_____________\n\n");
-
+	//Essa é uma alteração
 	for (int i = 0; i < 5 ; i++)
 	{
 		printf("\n Linha %d\n", i+1);
